@@ -58,3 +58,40 @@
 ![gambar-11][def-11]
 
 [def-11]: /image/ss9.png
+
+![gambar-12][def-12]
+
+[def-12]: /image/ss10.png
+
+- Selanjutnya `menggabungkan sel data` untuk menggabungkannya menggunakan atribut `rowspan` dan `colspan`, rowspan untuk menggabungkan baris secara `vertikal` sedangkan colspan untuk menggabungkan baris secara `horizontal`.
+![gambar-13][def-13]
+
+[def-13]: /image/ss13.png
+
+- Ini adalah hasilnya di browser.
+![gambar-14][def-14]
+
+[def-14]: /image/ss14.png
+
+- Lalu selanjutnya membuat `form` untuk membuat form buat file baru terlebih dahulu dengan nama `lab3_form.html` terus tambahkan kode untuk membuat `form` sederhana.
+![gambar-15][def-15]
+
+[def-15]: /image/ss15.png
+
+- Pergih ke browser dan lihat hasilnya.
+![gambar-16][def-16]
+
+[def-16]: /image/ss16.png
+
+- Lalu menambahkan `style CSS` pada form agar tampilannya menarik.
+![gambar-17][def-17]
+
+[def-17]: /image/ss17.png
+
+- Kembali ke browser refresh dan lihat hasilnya maka seperti ini.
+![gambar-18][def-18]
+
+[def-18]: /image/ss18.png
+
+## Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
