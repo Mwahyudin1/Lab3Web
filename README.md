@@ -49,7 +49,7 @@
 
 [def-9]: /image/ss11.png
 
-- Dan ini adalah tampilan tabelnya .
+- Dan ini adalah tampilan tabelnya karena belum ditambhkan `padding` dan `margin` maka seperti ini tampilannya.
 ![gambar-10][def-10]
 
 [def-10]: /image/ss12.png
@@ -94,4 +94,19 @@
 [def-18]: /image/ss18.png
 
 ## Pertanyaan dan Tugas
-1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+1. Buatlah form yang menampilkan `dropdown` menu dan `listbox` dengan multiple selection.
+- Berikut ini adalah form sederhana yang saya buat dengan menggunkan `HTML` dan `CSS`
+- `HTML`
+![gambar-19][def-19]
+
+[def-19]: /image/ss19.png
+
+- `CSS`
+![gambar-20][def-20]
+
+[def-20]: /image/ss20.png
+
+- Tampilan browser
+![gambar-21][def-21]
+
+[def-21]: /image/ss21.png

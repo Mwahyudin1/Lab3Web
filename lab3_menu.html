@@ -3,31 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style_menu.css">
+
+    <title>Dasar HTML</title>
 </head>
 <body>
+    <h1>Form survey Game</h1>
     <form>
-        <label for="dropdown">Pilih opsi dari dropdown:</label>
-        <select id="dropdown" name="pilihan_dropdown">
-            <option value="pilihan1">Pilihan 1</option>
-            <option value="pilihan2">Pilihan 2</option>
-            <option value="pilihan3">Pilihan 3</option>
-            <option value="pilihan4">Pilihan 4</option>
+        <label for="pilihan">Game yang Sering Anda mainkan</label>
+        <select id="pilihan" name="pilihan">
+            <option value="" selected="selected">- - Game - -</option>
+            <option value="opsi2">- Game Android</option>
+            <option value="opsi3">- Game PS</option>
+            <option value="opsi4">- Game PC</option>
         </select>
 
-        <br>
-
-        <label for="listbox">Pilih opsi dari listbox (boleh beberapa):</label>
-        <select id="listbox" name="pilihan_listbox[]" multiple>
-            <option value="opsi1">Opsi 1</option>
-            <option value="opsi2">Opsi 2</option>
-            <option value="opsi3">Opsi 3</option>
-            <option value="opsi4">Opsi 4</option>
+        <label for="multipleSelect">Seberapa sering Anda bermain Game (Tekan Ctrl untuk bebrapa pilihan) :</label>
+        <select id="multipleSelect" name="multipleSelect" multiple>
+            <option value="item1">- Sehari 3 jam</option>
+            <option value="item2">- Sehari 1 jam</option>
+            <option value="item3">- Sehari 2 jam</option>
+            <option value="item4">- Setiap hari 24 jam</option>
         </select>
 
-        <br>
-
-        <input type="submit" value="Submit">
+        <input type="submit" value="Kirim">
     </form>
 </body>
 </html>
